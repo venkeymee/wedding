@@ -24,7 +24,6 @@
 
 
 // Set the date we're counting down to
-var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 
 $(document).on('click', function(){
     document.getElementById("my_audio").play();
