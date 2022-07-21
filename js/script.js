@@ -29,6 +29,7 @@ $(document).on('click', function(){
     document.getElementById("my_audio").play();
     console.log('Shaadi me zaroor aana');
 });
+
 var countDownDate = new Date("Nov 29, 2020 00:00:00").getTime();
 
 // Update the count down every 1 second
