@@ -107,7 +107,7 @@ window.onload = function () {
      }
 
 
-var countDownDates = new Date("Aug 4, 2022 10:00:00").getTime();
+var countDownDates = new Date("Aug 4, 2022 10:00:00").getTime(); 
 
 // Update the count down every 1 second
 var x = setInterval(function() {
